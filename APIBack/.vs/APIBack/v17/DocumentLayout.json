@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\validators\\postempleadodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:validators\\postempleadodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\dtos\\postempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:dtos\\postempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\dtos\\getempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:dtos\\getempleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\context\\empleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:context\\empleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\model\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:model\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|c:\\users\\krlitos\\source\\repos\\apiback\\model\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128ADD7D-520C-447F-9868-426F079E2CE5}|APIBack.csproj|solutionrelative:model\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostEmpleadoDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Validators\\PostEmpleadoDTOValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\PostEmpleadoDTOValidator.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Validators\\PostEmpleadoDTOValidator.cs",
+              "RelativeToolTip": "Validators\\PostEmpleadoDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:18:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostEmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\DTOs\\PostEmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostEmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\DTOs\\PostEmpleadoDTO.cs",
+              "RelativeToolTip": "DTOs\\PostEmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:18:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Services\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Services\\IEmpleadoService.cs",
+              "RelativeToolTip": "Services\\IEmpleadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:21:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementacion\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeToolTip": "Services\\Implementacion\\EmpleadoService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:19:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:18:15.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\DTOs\\GetEmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\GetEmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\DTOs\\GetEmpleadoDTO.cs",
+              "RelativeToolTip": "DTOs\\GetEmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:41:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T20:02:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Ciudad.cs",
+              "RelativeDocumentMoniker": "Model\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Ciudad.cs",
+              "RelativeToolTip": "Model\\Ciudad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:57:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Cargo.cs",
+              "RelativeDocumentMoniker": "Model\\Cargo.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Cargo.cs",
+              "RelativeToolTip": "Model\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:57:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Model\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Sucursal.cs",
+              "RelativeToolTip": "Model\\Sucursal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:56:23.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Empleado.cs",
+              "RelativeDocumentMoniker": "Model\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Model\\Empleado.cs",
+              "RelativeToolTip": "Model\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:16:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Context\\EmpleadosContext.cs",
+              "RelativeDocumentMoniker": "Context\\EmpleadosContext.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Context\\EmpleadosContext.cs",
+              "RelativeToolTip": "Context\\EmpleadosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:52:22.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Krlitos\\source\\repos\\APIBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:50:42.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
